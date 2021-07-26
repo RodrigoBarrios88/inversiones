@@ -1,0 +1,50 @@
+.fila1{
+  width: 20%;
+}
+
+.fila2{
+  width: 16.5%;
+}
+
+.nav-tabs > li > a {
+  border: 1px solid #dddddd;
+  border-bottom-color: rgb(221, 221, 221);
+  border-bottom-color: transparent;
+  cursor: pointer;
+}
+
+.nav-tabs > li.active > a{
+    background-color: #E5E5E5;
+}
+
+
+.form-control{
+  margin-bottom: 5px;
+}
+
+.etiqueta{
+  margin-top: 5px;
+  margin-bottom: -4px;
+}
+
+.table-checks{
+  border: 0;
+}
+
+.table-checks-td{
+  font-size: 13px;
+}
+
+
+@media (max-width: 992px) {
+  .fila1{
+    width: 50%;
+    overflow:hidden; 
+    white-space:nowrap; 
+    text-overflow: ellipsis;
+  }
+   
+  .fila2{
+    width: 50%;
+  }
+}

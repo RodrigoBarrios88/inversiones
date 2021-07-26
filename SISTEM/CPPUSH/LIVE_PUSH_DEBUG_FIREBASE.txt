@@ -1,0 +1,7 @@
+
+
+ Log at 2020-09-22 16:38:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cL4ga6xSmD_4nLYuaUnhtB:APA91bGNbbNHTRgzE2pK8NZSWp5S0InXfLjo1581urLG1LaU813nkoMvTIkcU93_mMGMCS6DkC7_q6zglV21jtpvWryM9FjyiMHf6rbFUiYoxCnjo9Bj3H75gdCI4zaxHWsDG_qI4H6z"],"notification":{"title":"Prueba","subtitle":"Hola Manuel...","body":"Hola Manuel","badge":1,"type":100,"item_id":"","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"general","codigo":""},"webpush":{"title":"Prueba","body":"Hola Manuel","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8946306784956031570,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1600814333420929%e38a0a06e38a0a06"}]}

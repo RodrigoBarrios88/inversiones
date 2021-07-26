@@ -1,0 +1,37 @@
+.footer {
+	margin:0px;
+	padding: 10px;
+}
+
+.form-danger {
+  display: block;
+  width: 100%;
+  height: 30px;
+  padding: 6px 12px;
+  margin-bottom: 3px;
+  font-size: 11px;
+  line-height: 1.42857143;
+  color: #a94442;
+  background-color: #f2dede;
+  background-image: none;
+  border: 1px solid #a94442;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.hidden{
+	visibility: hidden;
+}
+
+label{
+	margin-top: 6px;
+	margin-bottom: -5px;
+}
+
+.navbar-brand > img {
+  display: inline;
+}

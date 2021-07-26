@@ -1,0 +1,7 @@
+
+
+ Log at 2020-01-07 17:00:13 ---------------- 
+ Failed to connect: 
+ err = 
+ deviceToken = d8b667f59b6bc67eab8419cc58d5ea6fc0b126225c08014a33f2bd2e186ad766
+ msg = Prueba

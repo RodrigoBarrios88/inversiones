@@ -1,0 +1,577 @@
+
+
+ Log at 2020-05-29 09:35:10 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades culturales...","body":"Nueo Photo Album: Actividades culturales","badge":55,"type":11,"item_id":898,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":898},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades culturales","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3641513575378917578,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-05-29 09:35:10 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dmANjgpms64:APA91bHtZNhhTQZUDWRCevWupwo-t5YaaC7d7bxWx45mK2p1-EgXzW-m7v0cGK2G5UkS4UU4bjejdSXYo6a5En3WxDs19AhZHp4LWoui-uOB868XgTIsoUG_ofswwYUp6lS33kBR_Idu"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades culturales...","body":"Nueo Photo Album: Actividades culturales","badge":1,"type":11,"item_id":898,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":898},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades culturales","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6883976103446244550,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1590766510365313%e38a0a06e38a0a06"}]}
+
+ Log at 2020-05-29 09:35:10 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades culturales...","body":"Nueo Photo Album: Actividades culturales","badge":1,"type":11,"item_id":898,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":898},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades culturales","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2209649437779413383,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-05-29 09:35:10 ---------------- 
+ ids : Array
+ post : {"registration_ids":["et9i2ecbcKg:APA91bHwil1HISpiDDHbn5X_kshT1hTOIVpUb0UkwBPKHfr47xWouv23LNV8IN0voM9WnV9IKuBK12z5nEl4gz00J9rJIOuqVveGCto9lKfqvbPSkPKd-8DIU32MTdafeVeseXhOJiOE"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades culturales...","body":"Nueo Photo Album: Actividades culturales","badge":1,"type":11,"item_id":898,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":898},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades culturales","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":359185383661434855,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-05-29 09:52:24 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades...","body":"Nueo Photo Album: Actividades","badge":59,"type":11,"item_id":899,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":899},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":237340790799294901,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-05-29 09:52:24 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dmANjgpms64:APA91bHtZNhhTQZUDWRCevWupwo-t5YaaC7d7bxWx45mK2p1-EgXzW-m7v0cGK2G5UkS4UU4bjejdSXYo6a5En3WxDs19AhZHp4LWoui-uOB868XgTIsoUG_ofswwYUp6lS33kBR_Idu"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades...","body":"Nueo Photo Album: Actividades","badge":3,"type":11,"item_id":899,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":899},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3289887404803923963,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-05-29 09:52:24 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades...","body":"Nueo Photo Album: Actividades","badge":3,"type":11,"item_id":899,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":899},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6597914522520902485,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-05-29 09:52:24 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades...","body":"Nueo Photo Album: Actividades","badge":3,"type":11,"item_id":899,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":899},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":478769861688268688,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1590767544962773%e38a0a06e38a0a06"}]}
+
+ Log at 2020-06-02 17:24:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: pruebas...","body":"Nueo Photo Album: pruebas","badge":77,"type":11,"item_id":930,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":930},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: pruebas","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6009366572219740074,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-06-02 17:24:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eti85AjWRPs:APA91bG4szhvaE_Zd0XsMm0ZKu-26OQmZuM6e_Y3L8a6fv3AECYerCDSfrcfzIlqhhfl4OUGuZaLz6vTVtfIa9zxw5SujJfkUQ-I0fEN4Au2ujLo8J7sokeO7AzOZR7TBo1--371k-Mm"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: pruebas...","body":"Nueo Photo Album: pruebas","badge":1,"type":11,"item_id":930,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":930},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: pruebas","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8832131493135557179,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1591140294172413%e38a0a06e38a0a06"}]}
+
+ Log at 2020-06-02 17:24:54 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: pruebas...","body":"Nueo Photo Album: pruebas","badge":1,"type":11,"item_id":930,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":930},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: pruebas","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2114031342216337267,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-06-02 17:24:54 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: pruebas...","body":"Nueo Photo Album: pruebas","badge":1,"type":11,"item_id":930,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":930},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: pruebas","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6818288529715420746,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-06-12 17:23:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades en grupo...","body":"Nueo Photo Album: Actividades en grupo","badge":91,"type":11,"item_id":957,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":957},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades en grupo","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3590267521280880707,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-06-12 17:23:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades en grupo...","body":"Nueo Photo Album: Actividades en grupo","badge":2,"type":11,"item_id":957,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":957},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades en grupo","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4511482186611078567,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-06-12 17:23:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["c3KZoueyzG4:APA91bE4wBMWetwc55k0jMbxeh0S00sLSdWyTnGQu1nMtF5xfxqjx8Sr-miy8hci01N0N5EKYQ0_M-rzBNn12g5jys2E3p7ee608VQOiXdX_ue2jovf8D3KI3JXdOoSTJxZ55tGIa-30"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades en grupo...","body":"Nueo Photo Album: Actividades en grupo","badge":2,"type":11,"item_id":957,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":957},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades en grupo","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8087976359420522987,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-06-12 17:23:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e-c5ILSl-3E:APA91bHGeRAXl5zdk9UkD_HSoh4-XHWar5y8grAbUm8Ev0Dx9EqRqRcV15e3To02hLkLBPCdj1Tys4j4yoX2ffpC3_IpIbmdg1do5jPboCrQ4TyquRwtvJATFV_ZK66FZ9sSkvaAUsJW"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades en grupo...","body":"Nueo Photo Album: Actividades en grupo","badge":2,"type":11,"item_id":957,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":957},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades en grupo","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6021694456692934026,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"1592004233745711"}]}
+
+ Log at 2020-06-12 17:23:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eCThuA5Mp8U:APA91bETXz0KhP7qhmaJaq5xMF1xCFmTes-jyvjAFYPzSLcK3ZX97vWZMkyUMdnCy3JIrmTPWhzAb6b57cO1Hcat-BbBnkE46rfTAAnsVMoRX3GQk4WpupARg2qIZ2wR26pZBJEAmzPC"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades en grupo...","body":"Nueo Photo Album: Actividades en grupo","badge":2,"type":11,"item_id":957,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":957},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades en grupo","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4926321102423823413,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1592004234040923%e38a0a06e38a0a06"}]}
+
+ Log at 2020-06-12 17:23:54 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividades en grupo...","body":"Nueo Photo Album: Actividades en grupo","badge":2,"type":11,"item_id":957,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":957},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividades en grupo","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6913314295394233866,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-07-28 15:47:05 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":36,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1687655946399579435,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-07-28 15:47:05 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cHuFVvpNMA8:APA91bEp1wt8tlEeXHOF5sEkeB17KjIVxBuEmFxEcgFc0ojGnW3NGT96uITmQD--XtXjGYr7LMTNCIsYc86-fWvGpRp3bz0AbodPb9yKS30-P0zes3y9eiwBCLK9nSWwNxTWxPFMLIFR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":36,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5076017414042825882,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1595972826053879%e38a0a06e38a0a06"}]}
+
+ Log at 2020-07-28 15:47:06 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":1,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1309308217731087393,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-07-28 15:47:06 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":1,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7484025249901454124,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-07-28 15:47:06 ---------------- 
+ ids : Array
+ post : {"registration_ids":["c3KZoueyzG4:APA91bE4wBMWetwc55k0jMbxeh0S00sLSdWyTnGQu1nMtF5xfxqjx8Sr-miy8hci01N0N5EKYQ0_M-rzBNn12g5jys2E3p7ee608VQOiXdX_ue2jovf8D3KI3JXdOoSTJxZ55tGIa-30"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":1,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3416196825287028161,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-07-28 15:47:06 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e-c5ILSl-3E:APA91bHGeRAXl5zdk9UkD_HSoh4-XHWar5y8grAbUm8Ev0Dx9EqRqRcV15e3To02hLkLBPCdj1Tys4j4yoX2ffpC3_IpIbmdg1do5jPboCrQ4TyquRwtvJATFV_ZK66FZ9sSkvaAUsJW"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":1,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8611320495474039012,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-07-28 15:47:06 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dfDq_TZoRQ0:APA91bHGtiKHdY9eDIGonfiMhA3_E-j3jT6AnwRIpOzqXat1e89WAeE6ed9Y4ch8ixVRxPirJJxEuEghFvIw0nbQHk_EKhWrdng_E4kPOVdwU9zceFqD-Vw1HSw9MCfVWsyq1ZPwXmZb"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Actividad del d\u00eda...","body":"Nueo Photo Album: Actividad del d\u00eda","badge":1,"type":11,"item_id":970,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":970},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3996985913209581297,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1595972826970879%e38a0a06e38a0a06"}]}
+
+ Log at 2020-08-27 16:22:44 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: des...","body":"Nueo Photo Album: des","badge":91,"type":11,"item_id":982,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":982},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: des","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":9061207023990127133,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-27 16:22:44 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cHuFVvpNMA8:APA91bEp1wt8tlEeXHOF5sEkeB17KjIVxBuEmFxEcgFc0ojGnW3NGT96uITmQD--XtXjGYr7LMTNCIsYc86-fWvGpRp3bz0AbodPb9yKS30-P0zes3y9eiwBCLK9nSWwNxTWxPFMLIFR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: des...","body":"Nueo Photo Album: des","badge":91,"type":11,"item_id":982,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":982},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: des","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7506582296814242417,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-27 16:22:44 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: des...","body":"Nueo Photo Album: des","badge":5,"type":11,"item_id":982,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":982},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: des","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5025950669453422334,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-27 16:22:44 ---------------- 
+ ids : Array
+ post : {"registration_ids":["c3KZoueyzG4:APA91bE4wBMWetwc55k0jMbxeh0S00sLSdWyTnGQu1nMtF5xfxqjx8Sr-miy8hci01N0N5EKYQ0_M-rzBNn12g5jys2E3p7ee608VQOiXdX_ue2jovf8D3KI3JXdOoSTJxZ55tGIa-30"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: des...","body":"Nueo Photo Album: des","badge":5,"type":11,"item_id":982,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":982},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: des","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1252616980381488822,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-27 16:22:44 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e-c5ILSl-3E:APA91bHGeRAXl5zdk9UkD_HSoh4-XHWar5y8grAbUm8Ev0Dx9EqRqRcV15e3To02hLkLBPCdj1Tys4j4yoX2ffpC3_IpIbmdg1do5jPboCrQ4TyquRwtvJATFV_ZK66FZ9sSkvaAUsJW"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: des...","body":"Nueo Photo Album: des","badge":5,"type":11,"item_id":982,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":982},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: des","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6797554400162646030,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-27 16:22:44 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: des...","body":"Nueo Photo Album: des","badge":5,"type":11,"item_id":982,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":982},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: des","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7701587869194852012,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-28 16:29:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":110,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1533888199245294849,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-28 16:29:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cHuFVvpNMA8:APA91bEp1wt8tlEeXHOF5sEkeB17KjIVxBuEmFxEcgFc0ojGnW3NGT96uITmQD--XtXjGYr7LMTNCIsYc86-fWvGpRp3bz0AbodPb9yKS30-P0zes3y9eiwBCLK9nSWwNxTWxPFMLIFR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":110,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1644281539803390052,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-28 16:29:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":1,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4437223244562088851,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-28 16:29:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":1,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2667125446490768391,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-28 16:29:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cHNrEOBkXVA:APA91bGv2Ln_ss0u5A9F-tGugkpV5XrwV5-Ks8tzSIk2b95ghnpjD58LB8sMs0Ks4mXu0oJ7-a92y-KthJUZGNFmtfyeNY7FP9lG3Luv3zLBwQ7eZdSfeP-Mx03ULErD390scNN5nOib"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":1,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":297744605236609293,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1598653754019074%e38a0a06e38a0a06"}]}
+
+ Log at 2020-08-28 16:29:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dev"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":1,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7108880761975474314,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-08-28 16:29:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e-c5ILSl-3E:APA91bHGeRAXl5zdk9UkD_HSoh4-XHWar5y8grAbUm8Ev0Dx9EqRqRcV15e3To02hLkLBPCdj1Tys4j4yoX2ffpC3_IpIbmdg1do5jPboCrQ4TyquRwtvJATFV_ZK66FZ9sSkvaAUsJW"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":1,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3724911952342741125,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-08-28 16:29:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e0aG_8KVVE0:APA91bEvZlVOdUpkVj9X7oQes_VVyZLeYEoVuJ8KY_WYC7329J8g7lQvQaetbOyNT1M2dJJVJnYwALxML0Bp9F3k8c3nZ6c4fALhh2w4uRBEJzfvNyjEiMURr3PpIfwZRf2HJKVhS2D1"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba de notificaciones...","body":"Nueo Photo Album: Prueba de notificaciones","badge":1,"type":11,"item_id":986,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":986},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba de notificaciones","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5898096244519777891,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1598653754312290%e38a0a06e38a0a06"}]}
+
+ Log at 2020-08-31 14:18:03 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dJMsLXZFmOs:APA91bHR_eQfvXQXrG00WH3rhsvNVRyu2n1V-BEJE8_sPCBApzaPSP85p-JjDzVT6BubTwJGuOqsr7AldVOQSvARMSdmXGmH35fbmsawqc5ALFcuXXcw69wHHsMq4rb1t2Kjd23SdO7J"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Matem\u00e1ticas...","body":"Nueo Photo Album: Matem\u00e1ticas","badge":1,"type":11,"item_id":987,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":987},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Matem\u00e1ticas","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5605542757124483790,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1598905083282821%e38a0a06e38a0a06"}]}
+
+ Log at 2020-08-31 14:26:59 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dJMsLXZFmOs:APA91bHR_eQfvXQXrG00WH3rhsvNVRyu2n1V-BEJE8_sPCBApzaPSP85p-JjDzVT6BubTwJGuOqsr7AldVOQSvARMSdmXGmH35fbmsawqc5ALFcuXXcw69wHHsMq4rb1t2Kjd23SdO7J"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Qu\u00edmica...","body":"Nueo Photo Album: Qu\u00edmica","badge":1,"type":11,"item_id":988,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":988},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Qu\u00edmica","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":222453164623250443,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1598905619437942%e38a0a06e38a0a06"}]}
+
+ Log at 2020-08-31 14:30:59 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dJMsLXZFmOs:APA91bHR_eQfvXQXrG00WH3rhsvNVRyu2n1V-BEJE8_sPCBApzaPSP85p-JjDzVT6BubTwJGuOqsr7AldVOQSvARMSdmXGmH35fbmsawqc5ALFcuXXcw69wHHsMq4rb1t2Kjd23SdO7J"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Arte...","body":"Nueo Photo Album: Arte","badge":1,"type":11,"item_id":989,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":989},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Arte","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8585218202277766081,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1598905859446608%e38a0a06e38a0a06"}]}
+
+ Log at 2020-08-31 14:54:40 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dJMsLXZFmOs:APA91bHR_eQfvXQXrG00WH3rhsvNVRyu2n1V-BEJE8_sPCBApzaPSP85p-JjDzVT6BubTwJGuOqsr7AldVOQSvARMSdmXGmH35fbmsawqc5ALFcuXXcw69wHHsMq4rb1t2Kjd23SdO7J"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Programaci\u00f3n...","body":"Nueo Photo Album: Programaci\u00f3n","badge":1,"type":11,"item_id":992,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":992},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Programaci\u00f3n","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8647344818627656382,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1598907280290480%e38a0a06e38a0a06"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cHuFVvpNMA8:APA91bEp1wt8tlEeXHOF5sEkeB17KjIVxBuEmFxEcgFc0ojGnW3NGT96uITmQD--XtXjGYr7LMTNCIsYc86-fWvGpRp3bz0AbodPb9yKS30-P0zes3y9eiwBCLK9nSWwNxTWxPFMLIFR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":178,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6957681259373135922,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":178,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8343739150664411463,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":1,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8047138215847079293,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e-c5ILSl-3E:APA91bHGeRAXl5zdk9UkD_HSoh4-XHWar5y8grAbUm8Ev0Dx9EqRqRcV15e3To02hLkLBPCdj1Tys4j4yoX2ffpC3_IpIbmdg1do5jPboCrQ4TyquRwtvJATFV_ZK66FZ9sSkvaAUsJW"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":1,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2384422266557619598,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fUoRaOJ0IgE:APA91bHmata0CuXbYUB-a8JPuaoPYlU2o5na22B_ZfJUHkvNp8JRmv1owYSz5NAdTR5k7Vz-VNL4s_zK6-VSIMDKgWpNrqgVFe2fREizLik9iV9u_Oqjfgn0YmuM5WlXO2R06LctTdlR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":1,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2160913554033621813,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1601501820721844%e38a0a06e38a0a06"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fl2V9Pedvbk:APA91bGIUobhSAyz_dARmnFBhiVDzlq1uEG5vRIV2INK1MGTafsPRtxSYxmqObPgoqacFCIDRLIopXNFjsSmlzt9HI4-Gst0AIizVjaz4b7p5oiFwrlLZzmndoWjX5eVgQqIfvh5cLOu"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":1,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2212169308797814244,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1601501820864702%e38a0a06e38a0a06"}]}
+
+ Log at 2020-09-30 15:37:00 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Acrtividad...","body":"Nueo Photo Album: Acrtividad","badge":1,"type":11,"item_id":1001,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1001},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Acrtividad","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5163408450884348287,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:43:15 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cHuFVvpNMA8:APA91bEp1wt8tlEeXHOF5sEkeB17KjIVxBuEmFxEcgFc0ojGnW3NGT96uITmQD--XtXjGYr7LMTNCIsYc86-fWvGpRp3bz0AbodPb9yKS30-P0zes3y9eiwBCLK9nSWwNxTWxPFMLIFR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":179,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5795871303681831333,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:43:16 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emSqcupIIqk:APA91bEux1zvq4HC9O0SWHOz5QGrOy59-i8kFtNboe1niMFghbb2cqoeyUUK_i0Y9DMFk8hG_teDD98dbkQT44X0uOLWJtH_ve6QxyTHgjkTrr9Im2Lr-iaFOmrM6minMaE7c-kymakX"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":179,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7221348438963032205,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:43:16 ---------------- 
+ ids : Array
+ post : {"registration_ids":["e-c5ILSl-3E:APA91bHGeRAXl5zdk9UkD_HSoh4-XHWar5y8grAbUm8Ev0Dx9EqRqRcV15e3To02hLkLBPCdj1Tys4j4yoX2ffpC3_IpIbmdg1do5jPboCrQ4TyquRwtvJATFV_ZK66FZ9sSkvaAUsJW"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":1,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2399032704132042860,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:43:16 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fUoRaOJ0IgE:APA91bHmata0CuXbYUB-a8JPuaoPYlU2o5na22B_ZfJUHkvNp8JRmv1owYSz5NAdTR5k7Vz-VNL4s_zK6-VSIMDKgWpNrqgVFe2fREizLik9iV9u_Oqjfgn0YmuM5WlXO2R06LctTdlR"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":1,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2123204342296460034,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1601502196510879%e38a0a06e38a0a06"}]}
+
+ Log at 2020-09-30 15:43:16 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fl2V9Pedvbk:APA91bGIUobhSAyz_dARmnFBhiVDzlq1uEG5vRIV2INK1MGTafsPRtxSYxmqObPgoqacFCIDRLIopXNFjsSmlzt9HI4-Gst0AIizVjaz4b7p5oiFwrlLZzmndoWjX5eVgQqIfvh5cLOu"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":1,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6136529103734362804,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1601502196646958%e38a0a06e38a0a06"}]}
+
+ Log at 2020-09-30 15:43:16 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cqPCpCkLJc0:APA91bE0FWT6OfHkfrILITiqEEBTGRwQ4o6UcOQlj2xinSDwAuCxuph967L8d2uH1CtUN_7KpfZSEqkgTNhjuhNzJv3zQYnmyvGIa3P4JpHAgXeF-OWgxNHa0GdjaeDtREIB3ruuu4eq"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":1,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1640524001047317520,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-09-30 15:43:16 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fpTCT8Cq5FY:APA91bEWTY2J1KXe5c5hc-LsnO00g9wkDoDdjnR4K5_59nl_v68jry2LOe4PUvS8NrfkUpqNiqU2Px3F9QCsehQKtwNSUhDqv6vOgE2zkpMqRIYOAPtWyMJMfH8FZw--SI5ICqzmo1AP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Segunda actividad del d\u00eda...","body":"Nueo Photo Album: Segunda actividad del d\u00eda","badge":1,"type":11,"item_id":1002,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1002},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Segunda actividad del d\u00eda","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5918724024087641492,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["84946a33478c6a5c9c3d0e8c6ca298280cd6873ca2fbc7f14bf208d7382b0a04"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8035271061627307883,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fEseWV05-zY:APA91bG2IAkZRgC4QVXNW8uB_aFydzSAJjtr6hWo_qalvzSaFUH-yTt92SBRogDEQshcuyYbdeSYjoVopT84gZh7pmigAuxL3YlA8c9gTx_ptSc-qdqM8OBzMYVA1yc7HiGAdLvFKhuf"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3754239576931963515,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eD49-N2pJao:APA91bGIgapgbQWOtwVn4jdVYkJMHkyqGxt21RrXZ3-ZIagXynL2MiMj-mmlugZlLTghAb6DYT6PwiQpbBwoXk4lI5pr23kN73XeKP8yB0Mh6Hmm6ij906LCyEaNlYWtkT_akKXbLs-3"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4778817192761436441,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["a2e19ca09d13d52455058c64f499c25b16d60e45af0c928c51814ae9b26d58e7"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2039854048847624485,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fV5xwktXK44:APA91bFpnet2fjOJC6QddXCTcoHFs0YEZaRmkG1O31ZM89u4vfog7Ph2R0A6Mp4nPIxhnlr9lsctVN_aSHdyQBETDE1G2XthTK3Ggs2hVxz2zTLwz2iYJ72VX2FhaTpvlSuvPdE-H7oo"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":769493228160782501,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["742fd7d54d9545bfcffe68a3c0a250e1ba63bc1bb7be255f0f3e46603e71c269"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2177947397482672553,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["ce75bd5870bff39dc8868283b936ca4b1f0d39fba2a442779ea10f02b56eb097"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4659334629674472252,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["caPuIsOmcFI:APA91bEtv3swrJkvcubcnX-j9vbEOnoVGont_rDAXTvQ9ctdSKxFxOtIdyfSaeYjXQwi7NR2DwqQe47sYdyiJG4J8tGn2nUuGLEfbD4e0gfz_iXZCrJXqs8RAVGXOmmwyASdPQ_s9n1X"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6246304251822757881,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["ezGUnMmfPpc:APA91bHXmMqLiccvzx4v_2UVLZttaCEh3i9VybUUa3ww5BOwdL0Vu85fqmI78FgxfoJl73TjdSvXT7p1aOOF9GrWAKrZslJq4MPdslA4yLyYcwrPaidhwHu6BY2PCVuZhuyao-XchkcT"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2947347430157987151,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:51 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fjDoQ6Bah7E:APA91bGPTzOpIBT2phgjVn3DoJ3h1y64A6M5CwaeA-8PScVZfmNVsADO0hwVGebx_p0-gjgmVOFUrYC5QedgzgxBP5y5sxGf4FI1nlZXIy0zRRmyKNuE1U9R_ulitgA2euz2i_zBgER1"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":37472922638164834,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fof3ogTKFGs:APA91bHloNFK2K5ifdKMQLil7MztB2pVuysz3bOxsqi18n2f83nU3KBByGWRXz0XBKZHkLdmW0oPjUXjfH8DMPcQ1JgEKQGA_Va4Nkt7bBobF3g-M7ZlFv1gbu8x6zaAvH7wjum4waeS"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6001086307261734773,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eyy2dJEurAU:APA91bEdye5uXjZejZR-ei5iq0cWrZgt6m6jL9OrCH6aEbcOaB5hKxI-jBhVmUrIlPDewBMp7TrRxLrc2qIhQHNnoAozkXRq9crHWKJPDFQO9-fJxkyw9qdqZb2SgGES0abR7geFnLXQ"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6251903724471207065,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fW90bryIC2w:APA91bGFKkKnZ01AvbTLFWbv7dwH4pObFibE0uS4owpIQMnnbAVjtq9YNDM02TOa1QecJhdwKA28inEmhvJXIPPaWoI2o1HFj_1Njv_AVTJr4dDmEk3lwXKRaszx9oZOEoyptzFjS1kg"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3678969011820711365,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dEmwmeLb5Eo:APA91bGEguki92PYPrjlpX2USB7o48xQC1K9nZNApfw9ln-mkmGdca_qP79b4w4zDQMNzWJErQDfM6buAJlvvd8ZefsYXNwg6zoKpNeEdUPJewJu4q7l1iMSidQAMd3qxKndbKgvaDha"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7938409892213045296,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["evqtyYiYWwg:APA91bEYcPJ_x5JHvf4ukhzlk0S7SW30tMBO9qp1kOwmSbVpqwsVYIBe39k0u-GiixVO6pDPMS-Sw6V-_vZ_4APSkUfi6PoruoeDMwNNZBME_dw48Z0G0yeilskMkt-LPvtTzjURM6_J"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3274784166261763690,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cMy1m3ktAqU:APA91bHKtvWgHPvbKHB4HpeN7zh9WUlAUJ1JN7QNmTpFU43kP4JYa_OZZAwgUKMwQbf_PyxDUNs1mMfssLka6gkByWH-SkPAiwZv6-VdFufiV4Y9v3Unw1P58-3_Y_Q9SVnhZcuqregO"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6145538423221506501,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["43a74db2598f5d9f2d2092af8c414ebc139e4beb3a1af8de882f06fdd31bd5ad"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5471659666393927975,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["a13239b412816ad6c4e94e85b0b18fdc85426379dd396b4bb9b1b10bf666fcaf"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":720121589030286913,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eBpl-CWMU74:APA91bFRVjL4QOUotVxydKecec868kjRYpoouAMKkdQXbqYfqDv8bleeI372H8Vz4VRVfQJL8GpSvDV4eR6A-B222Dqn7yDw5twm97Vb8Z8wlzsfh72fMi0LkMA05HvQCTu34xHpQmq3"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4367584621403444937,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["d1d4b94a0813c15f750380ee402beb66acedf600f0dd8699694cec53ab041363"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6709260927928146864,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dnvqfyDE3m4:APA91bGtUX7iZ6w-UXu8BZXbK7201y17DiH5NzOd-Ol36Pb9f-O1PRH9szf4Ec01Khzyx8-5Bh5mOBWO8DdUsj9E1iRujGZFPA9RDw20njLm1CKeuuQMMEL079c2qRO8bYYpCdzD-_1_"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3729604766986142003,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["d2b850b16395c604fd175ef1fa28b3a738f0292a6386494e1779a662f0fd845e"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7991205239625567110,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dev"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1263642786245719317,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["c739296c8dbd41d37008122d464d2b7fd6a859c485414972a0b51d6a6cf3b4b0"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3266749999132449404,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["133879b5c77e85b9dd38e500e5a91d0849c5083c9d340623ed91d7aaec52391d"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8712496699828872745,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["f8WPNR5mCp0:APA91bERvPbh0BL03R-iz2aeIBaUKSVxeeguFjppOnpCw92ujP0AaDDblr70d23eJNeenAGEK8Wi90R5IDDbJ3KB_PNU8TjqoU_P0AQp2iLN-H_b32REP-c-yvwlnJkd5ieXz-q-EyIl"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1554308431471137512,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["61c15b6c6d9185542921c332f79f9c70015f9085ef9c9106b369fcaa2efc3367"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1523042285113240260,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["0fa7fe39d2bec7f40f7b246222de5c34e6cea25d9e1fa0a8cb113958051dd1c8"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2494671117942388176,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:52 ---------------- 
+ ids : Array
+ post : {"registration_ids":["ft7zeOzxgUNCvR0V_UJm8S:APA91bEwhdbxZe5KXkxZIaybFLwlMyTyFAd6uBGoLDLlERAJbzQrkbqw85JO5LI64X6zq9icdkoWOvAUbdselCgfegk9S2ljEzmePqOuX4Go4IAnKA0kCQzP7WtzgbzLzTWhTFO7cRFP"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3196613743961721273,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2020-10-22 15:58:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eWq-1CaueqI:APA91bEzx2JQ2cIZLiHBuHPGkEP6yuhILfEXd4MyiBf4ZgGn5yrodYqCgxnlLQpX6rd9ddlsZk2KfsepOOGZ2NFCjnfeiAVjAp0ASxXyLpaQeO-Pyr9pu-QCC4BfBncWYGlKKQx3OCxd"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6222980861820735336,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["ffh1FJtdFP4:APA91bG7kSSxE6zHXb7SVtCT_FfMLCcVuUm4PCRLW-s_BS1F3Bj-h5fTvWI7DwD0vWhwzppLiJCOfT3qrgi05s_r5-nvoM5Fvk8lUovcW5hPzkGxooTKOR7uc8wfpecAoYzMRbFYaAO9"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5551176616261973679,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-10-22 15:58:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["36db7dda411f6ebd56b751b5ec869da0f04425c0ff18ec9c5452f9c6b0cc0181"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6382125652407706469,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cf0fdee45f0f134cf722e73a3af5d48d14ad3d50c31d3067c6e1126a174e9a2f"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":4561406923202210799,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-10-22 15:58:53 ---------------- 
+ ids : Array
+ post : {"registration_ids":["4d46c5ac05c2a4123a16e6ccc6c44ea299cfe4b6cd4411bcb5486f6f5b22dfb5"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: prueba...","body":"Nueo Photo Album: prueba","badge":1,"type":11,"item_id":31,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":31},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3078035770802600325,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-12-02 09:15:56 ---------------- 
+ ids : Array
+ post : {"registration_ids":["c_tcw0ig0MA:APA91bE_HzhQXXokLRLzSFDDIH3oWli5kwni5NEFd53NNsLuJtPZZ1xPQofmkbcj3IKRQIJ2lytdyISnutNbna6gXBLksM-Pr8UQCXxjW9eAVytlxWTwntVbs5RQd-Sy8cq4ACLt25Lc"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba...","body":"Nueo Photo Album: Prueba","badge":5,"type":11,"item_id":1004,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1004},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7012192788208445303,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1606922156219808%e38a0a06e38a0a06"}]}
+
+ Log at 2020-12-02 09:15:56 ---------------- 
+ ids : Array
+ post : {"registration_ids":["f3MSeaNpYro:APA91bEG2Ka4V7t9Af48kKqGSQlqO5uE6mK4zn5eY2uknWyaeoE7eJKRJoABLZtN5WmOWZY2i2Dg6izTevctuSGdtxQwC2elq33N-9KbbR0LvVBwa_bJ1DfZNmdJG0oxq-kSnvx2JWl9"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba...","body":"Nueo Photo Album: Prueba","badge":5,"type":11,"item_id":1004,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1004},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1332128724062709376,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-12-16 15:41:58 ---------------- 
+ ids : Array
+ post : {"registration_ids":["f3MSeaNpYro:APA91bEG2Ka4V7t9Af48kKqGSQlqO5uE6mK4zn5eY2uknWyaeoE7eJKRJoABLZtN5WmOWZY2i2Dg6izTevctuSGdtxQwC2elq33N-9KbbR0LvVBwa_bJ1DfZNmdJG0oxq-kSnvx2JWl9"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba para el alumno prueba...","body":"Nueo Photo Album: Prueba para el alumno prueba","badge":8,"type":11,"item_id":1005,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1005},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba para el alumno prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5944176356485195983,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2020-12-16 15:41:58 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dev"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba para el alumno prueba...","body":"Nueo Photo Album: Prueba para el alumno prueba","badge":8,"type":11,"item_id":1005,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1005},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba para el alumno prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5595059872247494487,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2020-12-16 15:41:58 ---------------- 
+ ids : Array
+ post : {"registration_ids":["d_sepj-rjI8:APA91bEfKuRN020MUN-iq9sY3M_EHZufxJebvaDhjnxnVY_3ItFMYKXLv4RKTz40cEFbHfKW2HOYOCIrMlCzpLkLuFLlN5pIrQBFUWt8R42SN8wJVc04ee1xalhHvGWUBoViI_yH7BiH"],"notification":{"title":"Nuevo Photo Album","subtitle":"Nueo Photo Album: Prueba para el alumno prueba...","body":"Nueo Photo Album: Prueba para el alumno prueba","badge":8,"type":11,"item_id":1005,"sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"photo1","codigo":1005},"webpush":{"title":"Nuevo Photo Album","body":"Nueo Photo Album: Prueba para el alumno prueba","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6339814089811971416,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1608154918526174%e38a0a06e38a0a06"}]}

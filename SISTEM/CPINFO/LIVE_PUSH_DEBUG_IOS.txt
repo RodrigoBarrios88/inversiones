@@ -1,0 +1,7 @@
+
+
+ Log at 2019-05-26 22:50:00 ---------------- 
+ Failed to connect: 
+ err = 
+ deviceToken = 007023a03c5c36bc994c504ac7257498554ab7d0250a505297b32222d0ceb681
+ msg = Recordatorio: Regreso a Clases (14/01/2019 08:00:00)

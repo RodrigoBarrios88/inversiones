@@ -1,0 +1,41 @@
+body {
+	background-color: #FFFFFF;
+    color: #000000;
+	margin:0px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table, th, td {
+    border-color: #BFCAEE;
+    border-style: solid;
+    border-width: 0.1em;
+}
+
+th {
+    font-size:12px;
+	font-weight:bold;
+	padding: 1.5px 3px 1.5px 3px;
+}
+
+td {
+    font-size:12px;
+	padding: 1.5px 3px 1.5px 3px;
+}
+
+.foto {
+	width: 120px;
+	max-height: 150px;
+	margin: 5px;
+	border-color: #fff;
+    border-style: solid;
+    border-width: 0.2em;
+}
+
+.contenedor {
+	width: 200px;
+}
+

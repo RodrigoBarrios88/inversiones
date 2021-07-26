@@ -1,0 +1,25 @@
+/************ preview de imagen **************/
+.img-preview-sm {
+    height: 300px;
+    width: 300px;
+	
+}
+
+.img-preview-lg {
+    width: 454px;
+	height: 280px;
+	border-style: solid;
+    border-width: 1px;
+}
+
+.img-container, .img-preview {
+    overflow: hidden;
+    text-align: center;
+}
+
+@media (max-width: 576px) {
+    .img-preview-sm {
+        height: 150px;
+        width: 150px;
+    }
+}

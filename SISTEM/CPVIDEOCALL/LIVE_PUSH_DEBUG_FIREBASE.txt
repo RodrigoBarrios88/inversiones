@@ -1,0 +1,79 @@
+
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dkI8dEyLNDI:APA91bEgJiQ8XlITYXrZ1wRoUpuTeR_Ltl5irHWRHtfIVWB9ShPW4oAMiv6KZcMYqwlAi0vE_r6iI81_-E0JieZ2fFjiWfpagKDsD8U3luSfC6q78hQz5FmunGu3CJ8FUDD2y0cj3jmr"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":44,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6095896832107942085,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["cXNs71HclPw:APA91bFEWp93uvucO7DYAdwNv7NY-Y_dO6DhuTJyqlE4e52h-07Fv9NksEBWQK89gIrU2QM6GV1BNArf6mV6r26sLrVRVxqSU_Xh4awi7_fSdHHeM1qgKPGys-z5qBBBBIoSq9FukG8N"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":11,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7824560182697101134,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dwN2hM4Vcf0:APA91bFCez_w_vKC6FmUB7SnBf2oD62S0dMUtaVyStRe9sMzPEFrivHehvyvFnCw5-sCH9sJWWAYPEby2cZPw8CMbrtAlrQ16apKga4YcFn-gm_AM95bPu7FfYZPg8CRokSKm_2MMTvh"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":11,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":3380942327296660380,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dnWWVYghNLY:APA91bFy_BlyIZE05NGi6vAFLbA2FgBcsNrxMuYgMIcN2Nu7VzM0zNs9lLBtRKmbuAQJSzZBK_oG5-K3v81-t9ovUD6JDz2M-efOqexcSMJEQir53p1zZ2lxMPL1VsDYJpxpurpcHgR-"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":11,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6280612600171128848,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dr3AWDggVFI:APA91bGp7Mwnq6cLTzupd1tNWECd4e8-0SWpKEz_Z32d2OH-SDi2g-zHM6Z_PM8RH1BTalToBiEBJpNIWgmyNdiPChg5GMVMJX4mgUYi_wQqIR__Y6TzhSTktLlj51_Sx8wpqDsj7NFd"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":6,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":2655858532472777569,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fy_woyGEslo:APA91bHhmvYQUxC9GMWfqEXdzYwlMcAb71NPmLxwWwjCl1YmuYvguIqnh9HjdZurmbuseR0wBLMcGGfokjLQriA-3zQmA63H0UkTQWi8RdmW4SH37JtbCfZD_dlMnidk08g-hnYAkaMp"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":6,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":7655396534008779048,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eIhHF3soug0:APA91bGu9lHJSPc1IWrA0wCfe2EJrHtrgtlZA9U7ruySGHz-lBCc26yoQR4liIyGaOGTbS5u988WBcnw9cEWeJ93icPoulOpW_GUloxGuDecoTOKAPtsEmzob6XWk579seTzeUECth4K"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":6,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5373870998093053835,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["b7917ebd6baa966fffa73e92d3bbd5e0502c76302895b0b00a92b4f46cc6306f"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":24,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":5361200870990208770,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"InvalidRegistration"}]}
+
+ Log at 2021-01-18 20:03:13 ---------------- 
+ ids : Array
+ post : {"registration_ids":["emapV8dtwGw:APA91bE-4oGf40qGJSdhUv7u6orXqiF0XJrJhqTAl4vGqHyX1Upy1aHq2DcTa_wPjpeNq4MddYYjkd5yCPUHHerezkdaWw7jon62JTqHSv2uRh9Yab_BLkZzK-2nCNdPotpwuyljvSCr"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":24,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":605474538974233220,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["ckE7bvS1mJI:APA91bEiLtZcreXIXxiZrVHmb7emVac7eyB7y8JT-dcUbprMzIIRY_TWXLaNLjW0L5ViY4JgtKz478qSJko7vAJG1euAZISeooKtMXnNR_emrkBa19Lx1m3dWaP_F9Acxtm2blj6xvrl"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":24,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":8496434428093192112,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
+
+ Log at 2021-01-18 20:03:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["eEirZvYNTMQ:APA91bG7o7UvxSjLgLG0x6PESvwzKpWaUtIl3spZjh9pZtOar2wbvxJFOY7Q5nUHPbTgzasyewI1vMLAU_IitSvN6P2_AVbjp7OsiXL15-_tu-FCmg0QWGE1rxQfv3wwR6M_ORf5BVGA"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":24,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6500556630942396500,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2021-01-18 20:03:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["fyGAE48Umh4:APA91bG1adCJCaPmZEiKKBexH9ni5XZ-o6gxYLJhOyfrKjwfEGu6VTknP-CzS538wL5u0ryod0AktMC1QxXbNnRWff74be1RxvI6aASaQymjF_rJV4aiHHbNwtR_CmGjJX8eCnFc_c5N"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":24,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":6457739824375682000,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"MismatchSenderId"}]}
+
+ Log at 2021-01-18 20:03:14 ---------------- 
+ ids : Array
+ post : {"registration_ids":["dV7Sml6Sg1c:APA91bGEYymJ_73apeXKALLbM0NGuweF1qJ3sHBI4BFHhfLdH74-eTi-QzO5XukFWSki-qUo2_rY2bBbjeesZL454IVXk8Tfxl4Cch5zpUYdUdK7MA7yIMnr6W9YoiEf97CH3dZ0Oith"],"notification":{"title":"Recordatorio","subtitle":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)...","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","badge":51,"type":13,"item_id":"298","sender_id":"","sound":"default","icon":"fcm_push_icon","click_action":"FCM_PLUGIN_ACTIVITY"},"data":{"landing_page":"videollamadas","codigo":"298"},"webpush":{"title":"Recordatorio","body":"Recordatorio: Estudios Sociales 3ero. B (15\/01\/2021 13:20:00)","click_action":"default","sound":"default","icon":"fcm_push_icon"},"priority":"high"}
+
+ result : {"multicast_id":1969573244879968075,"success":0,"failure":1,"canonical_ids":0,"results":[{"error":"NotRegistered"}]}
